@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00189C</color>
+    <color name="colorPrimaryDark">#0A20A3</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="text">#61B6FA</color>
+    <color name="backgoundC">#193AFF</color>
+    <color name="button">#F7236DD5</color>
+    <color name="map">#F7094297</color>
+    <color name="btns">#F72C92D6</color>
+    <color name="Orangetext">#FF9803</color>
+    <color name="Orangebtn">#FFC323</color>
+    <color name="slide_1">#790B8D</color>
+    <color name="slide_2">#1368AA</color>
+    <color name="slide_3">#43AFE0</color>
+    <color name="slide_4">#ADBB29</color>
+    <color name="slide_5">#3AC742</color>
+    <color name="text2">#0D4675</color>
+    <color name="Update">#C616E7</color>
+    <color name="new_update">#3649AD</color>
+    <color name="red">#EB7956</color>
+    <color name="TRANSPARENT">#1172BE</color>
+    <color name="banglabtn">#13A517</color>
+    <color name="black">#562E9C</color>
+    <color name="purple">#00AFFF</color>
+</resources>
